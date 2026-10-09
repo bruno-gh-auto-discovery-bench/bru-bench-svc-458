@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "pricing-staging",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
